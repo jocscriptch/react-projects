@@ -1,2 +1,2 @@
-# 1-Website Movies & Series
+## 1-Website Movies & Series
 https://mymoviesandseries.netlify.app/
