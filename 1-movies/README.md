@@ -1,8 +1,8 @@
-# React + Vite
+# 🎥 Películas & Series
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web desarrollada en **React** que muestra las películas y series en tendencia utilizando la API de **TheMovieDB**.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologías Usadas
+- ⚛️ **React**
+- 🎨 **CSS**
+- 🌐 **Fetch API** (para consumir datos de TheMovieDB)
